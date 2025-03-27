@@ -1,0 +1,7 @@
+#+options: toc:t html-postamble:nil html-preamble:nil
+#+options: html-scripts:nil html-style:nil html5-fancy:t
+#+html_doctype: html5
+#+html_head: <link rel="stylesheet" type="text/css" href="style1.css" />
+#+TITLE: deathto.vc
+* This is a test!
+Let's see if this works
